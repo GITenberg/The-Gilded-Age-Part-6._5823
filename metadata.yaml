@@ -1,0 +1,40 @@
+_repo: The-Gilded-Age-Part-6._5823
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+  - agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political corruption -- Fiction'
+- !lcsh 'Speculation -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Businessmen -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Legislators -- Fiction'
+- !lcsh 'Washington (D.C.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Gilded Age, Part 6.
+url: http://www.gutenberg.org/ebooks/5823
